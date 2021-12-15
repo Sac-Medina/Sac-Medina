@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sac-Medina
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m trained Data Scientist with Ph.D in Astrophysics.
 
 <!---
 Sac-Medina/Sac-Medina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
